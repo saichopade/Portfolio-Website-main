@@ -12,6 +12,8 @@ https://portfolio-website-main-ly29l4l9f-saichopades-projects.vercel.app/
 ---
 
 ## 📂 Project Structure
+
+```
 Portfolio-Website-main/
 │
 ├── public/
@@ -26,7 +28,7 @@ Portfolio-Website-main/
 │
 ├── package.json
 └── README.md
-
+```
 
 ---
 
@@ -52,8 +54,9 @@ Portfolio-Website-main/
 ## 📬 Contact Form Functionality
 The form submits data to `server.js`, which stores the information in a SQL database:
 
-```js
+```bash
 app.post('/submit-form', (req, res) => {
   // insert into DB
   res.redirect('https://your-deployed-site.vercel.app/#contact');
 });
+```
