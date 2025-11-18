@@ -1,7 +1,6 @@
 # 🌐 Portfolio Website
 
-A personal portfolio website built using **HTML, CSS, JavaScript (jQuery)**, and **Node.js (Express)** for handling form submissions.  
-The site includes sections like **Home, About, Skills, Projects, and Contact**, along with smooth animations and dynamic content.
+A personal portfolio website built using **HTML, CSS, JavaScript (jQuery)**, and **Node.js (Express)** for handling form submissions.  The site includes sections like **Home, About, Skills, Projects, and Contact**, along with smooth animations and dynamic content.
 
 ---
 
@@ -48,22 +47,23 @@ public/index.html
 ---
 
 # ✨ Features
-✔️ Clean and responsive UI  
-✔️ Text animations using jQuery  
-✔️ Smooth scrolling + interactive sections  
-✔️ Contact form connected to SQL database  
-✔️ Can be deployed without Git (directly using Vercel CLI)
+- 📱 Responsive layout (mobile-first)
+- ⚡ Smooth jQuery-powered animations
+- 🎯 Sections: Home, About, Skills, Contact
+- 📬 Contact form stores data in SQL database
+- 💻 Easy to deploy using Vercel CLI (no Git required)
+- 🧩 Modular file structure
 
 ---
 
 # 🛠️ Technologies Used
-| Layer | Tools |
-|-------|-------|
-| Frontend | HTML, CSS, JavaScript, jQuery |
-| Backend | Node.js, Express |
-| Database | MySQL / SQL |
-| Hosting | Vercel (Static + API) |
-
+| Technology  | Used For |
+|-------------|-----------|
+| 💅 HTML/CSS | Frontend Layout & Styling |
+| 🔥 JavaScript + jQuery | Dynamic Content & Animations |
+| 🧠 Node.js (Express) | Backend API & Form Handling |
+| 🗄️ MySQL | Database for form submissions |
+| ☁️ Vercel | Hosting: static frontend + API route |
 ---
 
 # 📬 Contact Form Functionality
