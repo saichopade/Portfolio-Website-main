@@ -66,12 +66,3 @@ public/index.html
 | ☁️ Vercel | Hosting: static frontend + API route |
 ---
 
-# 📬 Contact Form Functionality
-The form submits data to `server.js`, which stores the information in a SQL database:
-
-```bash
-app.post('/submit-form', (req, res) => {
-  // insert into DB
-  res.redirect('https://your-deployed-site.vercel.app/#contact');
-});
-```
