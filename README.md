@@ -29,7 +29,22 @@ Portfolio-Website-main/
 ├── package.json
 └── README.md
 ```
+---
 
+🖥️ Run Locally
+1. Install Dependencies
+```bash
+npm install
+```
+2. Start Backend
+```bash
+node api/server.js
+```
+3. Open Frontend
+Open this file in your browser:
+```bash
+public/index.html
+```
 ---
 
 ## ✨ Features
