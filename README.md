@@ -5,13 +5,13 @@ The site includes sections like **Home, About, Skills, Projects, and Contact**, 
 
 ---
 
-## 🚀 Live Demo
+# 🚀 Live Demo
 🔗 **Frontend (Vercel Deploy):**  
 https://portfolio-website-main-ly29l4l9f-saichopades-projects.vercel.app/
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```
 Portfolio-Website-main/
@@ -31,7 +31,7 @@ Portfolio-Website-main/
 ```
 ---
 
-🖥️ Run Locally
+# 🖥️ Run Locally
 1. Install Dependencies
 ```bash
 npm install
@@ -47,7 +47,7 @@ public/index.html
 ```
 ---
 
-## ✨ Features
+# ✨ Features
 ✔️ Clean and responsive UI  
 ✔️ Text animations using jQuery  
 ✔️ Smooth scrolling + interactive sections  
@@ -56,7 +56,7 @@ public/index.html
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 | Layer | Tools |
 |-------|-------|
 | Frontend | HTML, CSS, JavaScript, jQuery |
@@ -66,7 +66,7 @@ public/index.html
 
 ---
 
-## 📬 Contact Form Functionality
+# 📬 Contact Form Functionality
 The form submits data to `server.js`, which stores the information in a SQL database:
 
 ```bash
